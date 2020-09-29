@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "importHelpers": true,
+    "module": "commonjs",
+    "alwaysStrict": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "outDir": "dist",
+    "target": "esnext",
+    "sourceMap": true
+  }
+}
